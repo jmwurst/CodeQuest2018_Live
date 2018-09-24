@@ -1,3 +1,3 @@
-# CodeQuest_2018_Live
+# Code Quest 2018 (Live)
 
-Test
+These solutions were written during Lockheed Martin Code Quest 2018.
